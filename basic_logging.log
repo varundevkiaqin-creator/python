@@ -1,0 +1,5 @@
+2026-10-14 11:07:25 - __main__ - DEBUG - Debug message
+2026-10-14 11:07:25 - __main__ - INFO - Application started
+2026-10-14 11:07:25 - __main__ - WARNING - Warning message
+2026-10-14 11:07:25 - __main__ - ERROR - Error message
+2026-10-14 11:07:25 - __main__ - CRITICAL - Critical message
